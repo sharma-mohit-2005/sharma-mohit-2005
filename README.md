@@ -4,7 +4,7 @@
 
 ## 🔧 Skills
 - **Programming Languages**: Python, HTML
-- **Frameworks**: 
+- **Frameworks**: Currently learning Django
 - **Tools**: MS-Office, Excel, GitHub, Visual Studio Code
 - **Interests**: Web Development, Data Structures, Algorithms
   
@@ -17,8 +17,9 @@ If you're interested in collaborating, feel free to reach out!
 
 ## 📫 How to Reach Me
 - **Email**: msharma42005@gmail.com
-- **LinkedIn**:
-- **Twitter**:
+- **LinkedIn**: www.linkedin.com/in/mohit-sharma-74786a315
+- **Twitter** :@sharma_mohit_05
+
   
 ## 🌟 Fun Fact
 I love learning about new technologies and am always looking for ways to improve my coding skills. When I'm not coding, you can find me reading tech blogs or exploring the outdoors!
