@@ -17,7 +17,7 @@ If you're interested in collaborating, feel free to reach out!
 
 ## 📫 How to Reach Me
 - **Email**: msharma42005@gmail.com
-- **LinkedIn**: www.linkedin.com/in/mohit-sharma-74786a315
+- **LinkedIn**: www.linkedin.com/in/sharma-mohit-dev
 - **Twitter** :https://x.com/sharma_mohit_05
 
   
